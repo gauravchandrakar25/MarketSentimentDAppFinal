@@ -8,6 +8,8 @@ To run this DApp, follow this steps:
 2. npm install
 3. npm run start
 
+Contract deployed at: 0x3406965957385F420D37ef7b86b2001c30e7F375
+
 - The user can sign in using any web3 wallet and authenticate itself with the wallet and gets the access to vote for a particular token, 
 whether the particular token will go up or down.
 - A user can vote only once for a token.
